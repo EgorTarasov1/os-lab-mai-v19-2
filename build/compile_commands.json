@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Xiaomi/Desktop/ll2/build",
+  "command": "C:\\Users\\Xiaomi\\bin\\c++.exe -g -std=gnu++14 -o CMakeFiles\\bitonic_sort.dir\\main.cpp.obj -c C:\\Users\\Xiaomi\\Desktop\\ll2\\main.cpp",
+  "file": "C:\\Users\\Xiaomi\\Desktop\\ll2\\main.cpp",
+  "output": "CMakeFiles\\bitonic_sort.dir\\main.cpp.obj"
+}
+]

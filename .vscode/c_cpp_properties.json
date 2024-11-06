@@ -1,0 +1,17 @@
+{
+  "configurations": [
+      {
+          "name": "Win32",
+          "includePath": [
+              "${workspaceFolder}/**",
+              "C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include" // Путь к стандартным заголовкам
+          ],
+          "defines": [],
+          "compilerPath": "C:/w64devkit/bin/g++.exe", // Путь к компилятору
+          "cStandard": "c11",
+          "cppStandard": "c++17", // Укажите необходимый стандарт C++
+          "intelliSenseMode": "gcc-x64"
+      }
+  ],
+  "version": 4
+}

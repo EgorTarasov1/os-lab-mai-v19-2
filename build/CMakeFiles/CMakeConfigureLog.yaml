@@ -1,0 +1,995 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      The system is: Windows - 10.0.19045 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/path/to/g++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/path/to/g++.exe 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/path/to/g++.exe 
+      Build flags: 
+      Id flags: --c++ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/path/to/g++.exe 
+      Build flags: 
+      Id flags: --ec++ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/path/to/g++.exe 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/path/to/g++.exe 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/path/to/g++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/path/to/g++.exe 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/path/to/g++.exe 
+      Build flags: 
+      Id flags: --c++ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/path/to/g++.exe 
+      Build flags: 
+      Id flags: --ec++ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/path/to/g++.exe 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: C:/path/to/g++.exe 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:1205 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:1205 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+...
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/w64devkit/bin/g++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+      
+      The CXX compiler identification is GNU, found in:
+        C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/3.30.3/CompilerIdCXX/a.exe
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake:74 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:5 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-e7tmdr"
+      binary: "C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-e7tmdr"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: ""
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-e7tmdr'
+        
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f Makefile cmTC_cd72c/fast
+        C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_cd72c.dir\\build.make CMakeFiles/cmTC_cd72c.dir/build
+        mingw32-make.exe[1]: Entering directory 'C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-e7tmdr'
+        Building CXX object CMakeFiles/cmTC_cd72c.dir/CMakeCXXCompilerABI.cpp.obj
+        C:\\w64devkit\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_cd72c.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp"
+        Using built-in specs.
+        COLLECT_GCC=C:\\w64devkit\\bin\\g++.exe
+        Target: x86_64-w64-mingw32
+        Configured with: /gcc-13.1.0/configure --prefix=/w64devkit --with-sysroot=/w64devkit/x86_64-w64-mingw32 --with-native-system-header-dir=/include --target=x86_64-w64-mingw32 --host=x86_64-w64-mingw32 --enable-static --disable-shared --with-pic --with-gmp-include=/deps/include --with-gmp-lib=/deps/lib --with-mpc-include=/deps/include --with-mpc-lib=/deps/lib --with-mpfr-include=/deps/include --with-mpfr-lib=/deps/lib --enable-languages=c,c++ --enable-libgomp --enable-threads=posix --enable-version-specific-runtime-libs --disable-dependency-tracking --disable-multilib --disable-nls --disable-win32-registry --enable-mingw-wildcard CFLAGS_FOR_TARGET=-Os CXXFLAGS_FOR_TARGET=-Os LDFLAGS_FOR_TARGET=-s CFLAGS=-Os CXXFLAGS=-Os LDFLAGS=-s
+        Thread model: posix
+        Supported LTO compression algorithms: zlib
+        gcc version 13.1.0 (GCC) 
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_cd72c.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_cd72c.dir\\'
+         C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -isysroot C:/w64devkit/bin/../x86_64-w64-mingw32 -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_cd72c.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\ccLQT7Og.s
+        GNU C++17 (GCC) version 13.1.0 (x86_64-w64-mingw32)
+        	compiled by GNU C version 13.1.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version none
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        ignoring duplicate directory "C:/w64devkit/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"
+        ignoring duplicate directory "C:/w64devkit/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"
+        ignoring duplicate directory "C:/w64devkit/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"
+        ignoring duplicate directory "C:/w64devkit/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include"
+        ignoring nonexistent directory "C:/w64devkit/bin/../x86_64-w64-mingw32/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"
+        ignoring duplicate directory "C:/w64devkit/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"
+        ignoring duplicate directory "C:/w64devkit/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"
+        ignoring nonexistent directory "C:/w64devkit/bin/../x86_64-w64-mingw32/mingw/include"
+        #include "..." search starts here:
+        #include <...> search starts here:
+         C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++
+         C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32
+         C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward
+         C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include
+         C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed
+         C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include
+        End of search list.
+        Compiler executable checksum: 5d1646ca4b44fd25f71d554c3d590391
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_cd72c.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_cd72c.dir\\'
+         as -v -o CMakeFiles\\cmTC_cd72c.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\ccLQT7Og.s
+        GNU assembler version 2.39 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.39
+        COMPILER_PATH=C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/w64devkit/bin/../libexec/gcc/
+        LIBRARY_PATH=C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/w64devkit/bin/../lib/gcc/;C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_cd72c.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_cd72c.dir\\CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_cd72c.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_cd72c.dir\\link.txt --verbose=1
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_cd72c.dir/objects.a
+        C:\\Users\\Xiaomi\\bin\\ar.exe qc CMakeFiles\\cmTC_cd72c.dir/objects.a @CMakeFiles\\cmTC_cd72c.dir\\objects1.rsp
+        C:\\w64devkit\\bin\\g++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_cd72c.dir/objects.a -Wl,--no-whole-archive -o cmTC_cd72c.exe -Wl,--out-implib,libcmTC_cd72c.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        Using built-in specs.
+        COLLECT_GCC=C:\\w64devkit\\bin\\g++.exe
+        COLLECT_LTO_WRAPPER=C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe
+        Target: x86_64-w64-mingw32
+        Configured with: /gcc-13.1.0/configure --prefix=/w64devkit --with-sysroot=/w64devkit/x86_64-w64-mingw32 --with-native-system-header-dir=/include --target=x86_64-w64-mingw32 --host=x86_64-w64-mingw32 --enable-static --disable-shared --with-pic --with-gmp-include=/deps/include --with-gmp-lib=/deps/lib --with-mpc-include=/deps/include --with-mpc-lib=/deps/lib --with-mpfr-include=/deps/include --with-mpfr-lib=/deps/lib --enable-languages=c,c++ --enable-libgomp --enable-threads=posix --enable-version-specific-runtime-libs --disable-dependency-tracking --disable-multilib --disable-nls --disable-win32-registry --enable-mingw-wildcard CFLAGS_FOR_TARGET=-Os CXXFLAGS_FOR_TARGET=-Os LDFLAGS_FOR_TARGET=-s CFLAGS=-Os CXXFLAGS=-Os LDFLAGS=-s
+        Thread model: posix
+        Supported LTO compression algorithms: zlib
+        gcc version 13.1.0 (GCC) 
+        COMPILER_PATH=C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/w64devkit/bin/../libexec/gcc/
+        LIBRARY_PATH=C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/w64devkit/bin/../lib/gcc/;C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_cd72c.exe' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_cd72c.'
+         C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -plugin C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/liblto_plugin.dll -plugin-opt=C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\cczUGkpo.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/w64devkit/bin/../x86_64-w64-mingw32 -m i386pep -Bdynamic -o cmTC_cd72c.exe C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/w64devkit/bin/../lib/gcc -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_cd72c.dir/objects.a --no-whole-archive --out-implib libcmTC_cd72c.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
+        collect2 version 13.1.0
+        c:\\users\\xiaomi\\bin/ld.exe -plugin C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/liblto_plugin.dll -plugin-opt=C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\cczUGkpo.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/w64devkit/bin/../x86_64-w64-mingw32 -m i386pep -Bdynamic -o cmTC_cd72c.exe C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/w64devkit/bin/../lib/gcc -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_cd72c.dir/objects.a --no-whole-archive --out-implib libcmTC_cd72c.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
+        GNU ld (GNU Binutils) 2.39
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_cd72c.exe' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_cd72c.'
+        mingw32-make.exe[1]: Leaving directory 'C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-e7tmdr'
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake:182 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Parsed CXX implicit include dir info: rv=done
+        found start of include info
+        found start of implicit include info
+          add: [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++]
+          add: [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32]
+          add: [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward]
+          add: [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include]
+          add: [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed]
+          add: [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include]
+        end of search list found
+        collapse include dir [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++] ==> [C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++]
+        collapse include dir [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32] ==> [C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32]
+        collapse include dir [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward] ==> [C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward]
+        collapse include dir [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include] ==> [C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include]
+        collapse include dir [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed] ==> [C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed]
+        collapse include dir [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include] ==> [C:/w64devkit/x86_64-w64-mingw32/include]
+        implicit include dirs: [C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++;C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32;C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward;C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include;C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed;C:/w64devkit/x86_64-w64-mingw32/include]
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake:218 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?))("|,| |$)]
+        ignore line: [Change Dir: 'C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-e7tmdr']
+        ignore line: []
+        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f Makefile cmTC_cd72c/fast]
+        ignore line: [C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_cd72c.dir\\build.make CMakeFiles/cmTC_cd72c.dir/build]
+        ignore line: [mingw32-make.exe[1]: Entering directory 'C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-e7tmdr']
+        ignore line: [Building CXX object CMakeFiles/cmTC_cd72c.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [C:\\w64devkit\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_cd72c.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp"]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=C:\\w64devkit\\bin\\g++.exe]
+        ignore line: [Target: x86_64-w64-mingw32]
+        ignore line: [Configured with: /gcc-13.1.0/configure --prefix=/w64devkit --with-sysroot=/w64devkit/x86_64-w64-mingw32 --with-native-system-header-dir=/include --target=x86_64-w64-mingw32 --host=x86_64-w64-mingw32 --enable-static --disable-shared --with-pic --with-gmp-include=/deps/include --with-gmp-lib=/deps/lib --with-mpc-include=/deps/include --with-mpc-lib=/deps/lib --with-mpfr-include=/deps/include --with-mpfr-lib=/deps/lib --enable-languages=c c++ --enable-libgomp --enable-threads=posix --enable-version-specific-runtime-libs --disable-dependency-tracking --disable-multilib --disable-nls --disable-win32-registry --enable-mingw-wildcard CFLAGS_FOR_TARGET=-Os CXXFLAGS_FOR_TARGET=-Os LDFLAGS_FOR_TARGET=-s CFLAGS=-Os CXXFLAGS=-Os LDFLAGS=-s]
+        ignore line: [Thread model: posix]
+        ignore line: [Supported LTO compression algorithms: zlib]
+        ignore line: [gcc version 13.1.0 (GCC) ]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_cd72c.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_cd72c.dir\\']
+        ignore line: [ C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -isysroot C:/w64devkit/bin/../x86_64-w64-mingw32 -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_cd72c.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\ccLQT7Og.s]
+        ignore line: [GNU C++17 (GCC) version 13.1.0 (x86_64-w64-mingw32)]
+        ignore line: [	compiled by GNU C version 13.1.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version none]
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [ignoring duplicate directory "C:/w64devkit/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"]
+        ignore line: [ignoring duplicate directory "C:/w64devkit/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"]
+        ignore line: [ignoring duplicate directory "C:/w64devkit/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"]
+        ignore line: [ignoring duplicate directory "C:/w64devkit/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include"]
+        ignore line: [ignoring nonexistent directory "C:/w64devkit/bin/../x86_64-w64-mingw32/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"]
+        ignore line: [ignoring duplicate directory "C:/w64devkit/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"]
+        ignore line: [ignoring duplicate directory "C:/w64devkit/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"]
+        ignore line: [ignoring nonexistent directory "C:/w64devkit/bin/../x86_64-w64-mingw32/mingw/include"]
+        ignore line: [#include "..." search starts here:]
+        ignore line: [#include <...> search starts here:]
+        ignore line: [ C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++]
+        ignore line: [ C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32]
+        ignore line: [ C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward]
+        ignore line: [ C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include]
+        ignore line: [ C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed]
+        ignore line: [ C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include]
+        ignore line: [End of search list.]
+        ignore line: [Compiler executable checksum: 5d1646ca4b44fd25f71d554c3d590391]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_cd72c.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_cd72c.dir\\']
+        ignore line: [ as -v -o CMakeFiles\\cmTC_cd72c.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\ccLQT7Og.s]
+        ignore line: [GNU assembler version 2.39 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.39]
+        ignore line: [COMPILER_PATH=C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/]
+        ignore line: [C:/w64devkit/bin/../libexec/gcc/]
+        ignore line: [LIBRARY_PATH=C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/]
+        ignore line: [C:/w64devkit/bin/../lib/gcc/]
+        ignore line: [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/]
+        ignore line: [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
+        ignore line: [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
+        ignore line: [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_cd72c.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_cd72c.dir\\CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_cd72c.exe]
+        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_cd72c.dir\\link.txt --verbose=1]
+        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_cd72c.dir/objects.a]
+        ignore line: [C:\\Users\\Xiaomi\\bin\\ar.exe qc CMakeFiles\\cmTC_cd72c.dir/objects.a @CMakeFiles\\cmTC_cd72c.dir\\objects1.rsp]
+        ignore line: [C:\\w64devkit\\bin\\g++.exe  -v -Wl -v -Wl --whole-archive CMakeFiles\\cmTC_cd72c.dir/objects.a -Wl --no-whole-archive -o cmTC_cd72c.exe -Wl --out-implib libcmTC_cd72c.dll.a -Wl --major-image-version 0 --minor-image-version 0]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=C:\\w64devkit\\bin\\g++.exe]
+        ignore line: [COLLECT_LTO_WRAPPER=C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe]
+        ignore line: [Target: x86_64-w64-mingw32]
+        ignore line: [Configured with: /gcc-13.1.0/configure --prefix=/w64devkit --with-sysroot=/w64devkit/x86_64-w64-mingw32 --with-native-system-header-dir=/include --target=x86_64-w64-mingw32 --host=x86_64-w64-mingw32 --enable-static --disable-shared --with-pic --with-gmp-include=/deps/include --with-gmp-lib=/deps/lib --with-mpc-include=/deps/include --with-mpc-lib=/deps/lib --with-mpfr-include=/deps/include --with-mpfr-lib=/deps/lib --enable-languages=c c++ --enable-libgomp --enable-threads=posix --enable-version-specific-runtime-libs --disable-dependency-tracking --disable-multilib --disable-nls --disable-win32-registry --enable-mingw-wildcard CFLAGS_FOR_TARGET=-Os CXXFLAGS_FOR_TARGET=-Os LDFLAGS_FOR_TARGET=-s CFLAGS=-Os CXXFLAGS=-Os LDFLAGS=-s]
+        ignore line: [Thread model: posix]
+        ignore line: [Supported LTO compression algorithms: zlib]
+        ignore line: [gcc version 13.1.0 (GCC) ]
+        ignore line: [COMPILER_PATH=C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/]
+        ignore line: [C:/w64devkit/bin/../libexec/gcc/]
+        ignore line: [LIBRARY_PATH=C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/]
+        ignore line: [C:/w64devkit/bin/../lib/gcc/]
+        ignore line: [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/]
+        ignore line: [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
+        ignore line: [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
+        ignore line: [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_cd72c.exe' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_cd72c.']
+        link line: [ C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -plugin C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/liblto_plugin.dll -plugin-opt=C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\cczUGkpo.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/w64devkit/bin/../x86_64-w64-mingw32 -m i386pep -Bdynamic -o cmTC_cd72c.exe C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/w64devkit/bin/../lib/gcc -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_cd72c.dir/objects.a --no-whole-archive --out-implib libcmTC_cd72c.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+          arg [C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe] ==> ignore
+          arg [-plugin] ==> ignore
+          arg [C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/liblto_plugin.dll] ==> ignore
+          arg [-plugin-opt=C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\cczUGkpo.res] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmoldname] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lpthread] ==> ignore
+          arg [-plugin-opt=-pass-through=-ladvapi32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lshell32] ==> ignore
+          arg [-plugin-opt=-pass-through=-luser32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmoldname] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [--sysroot=C:/w64devkit/bin/../x86_64-w64-mingw32] ==> ignore
+          arg [-m] ==> ignore
+          arg [i386pep] ==> ignore
+          arg [-Bdynamic] ==> search dynamic
+          arg [-o] ==> ignore
+          arg [cmTC_cd72c.exe] ==> ignore
+          arg [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> obj [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o]
+          arg [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o] ==> obj [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o]
+          arg [-LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0] ==> dir [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0]
+          arg [-LC:/w64devkit/bin/../lib/gcc] ==> dir [C:/w64devkit/bin/../lib/gcc]
+          arg [-LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib] ==> dir [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib]
+          arg [-LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib] ==> dir [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib]
+          arg [-LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib] ==> dir [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib]
+          arg [-LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../..] ==> dir [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../..]
+          arg [-v] ==> ignore
+          arg [--whole-archive] ==> ignore
+          arg [CMakeFiles\\cmTC_cd72c.dir/objects.a] ==> ignore
+          arg [--no-whole-archive] ==> ignore
+          arg [--out-implib] ==> ignore
+          arg [libcmTC_cd72c.dll.a] ==> ignore
+          arg [--major-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [--minor-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [-lstdc++] ==> lib [stdc++]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lmoldname] ==> lib [moldname]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-lpthread] ==> lib [pthread]
+          arg [-ladvapi32] ==> lib [advapi32]
+          arg [-lshell32] ==> lib [shell32]
+          arg [-luser32] ==> lib [user32]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lmoldname] ==> lib [moldname]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o] ==> obj [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+        ignore line: [collect2 version 13.1.0]
+        ignore line: [c:\\users\\xiaomi\\bin/ld.exe -plugin C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/liblto_plugin.dll -plugin-opt=C:/w64devkit/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\cczUGkpo.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/w64devkit/bin/../x86_64-w64-mingw32 -m i386pep -Bdynamic -o cmTC_cd72c.exe C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/w64devkit/bin/../lib/gcc -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -v --whole-archive CMakeFiles\\cmTC_cd72c.dir/objects.a --no-whole-archive --out-implib libcmTC_cd72c.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+        linker tool for 'CXX': c:/users/xiaomi/bin/ld.exe
+        remove lib [msvcrt]
+        remove lib [msvcrt]
+        collapse obj [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> [C:/w64devkit/x86_64-w64-mingw32/lib/crt2.o]
+        collapse obj [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o] ==> [C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o]
+        collapse obj [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o] ==> [C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+        collapse library dir [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0] ==> [C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0]
+        collapse library dir [C:/w64devkit/bin/../lib/gcc] ==> [C:/w64devkit/lib/gcc]
+        collapse library dir [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib] ==> [C:/w64devkit/x86_64-w64-mingw32/lib]
+        collapse library dir [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib] ==> [C:/w64devkit/lib]
+        collapse library dir [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib] ==> [C:/w64devkit/x86_64-w64-mingw32/lib]
+        collapse library dir [C:/w64devkit/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../..] ==> [C:/w64devkit/lib]
+        implicit libs: [stdc++;mingw32;gcc;moldname;mingwex;kernel32;pthread;advapi32;shell32;user32;kernel32;mingw32;gcc;moldname;mingwex;kernel32]
+        implicit objs: [C:/w64devkit/x86_64-w64-mingw32/lib/crt2.o;C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o;C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+        implicit dirs: [C:/w64devkit/lib/gcc/x86_64-w64-mingw32/13.1.0;C:/w64devkit/lib/gcc;C:/w64devkit/x86_64-w64-mingw32/lib;C:/w64devkit/lib]
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake:255 (cmake_determine_linker_id)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Running the CXX compiler's linker: "c:/users/xiaomi/bin/ld.exe" "-v"
+      GNU ld (GNU Binutils) 2.39
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/FindThreads.cmake:99 (CHECK_CXX_SOURCE_COMPILES)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/FindThreads.cmake:163 (_threads_check_libc)"
+      - "CMakeLists.txt:12 (find_package)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
+    directories:
+      source: "C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-zcv0ru"
+      binary: "C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-zcv0ru"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: ""
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-zcv0ru'
+        
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f Makefile cmTC_59aaf/fast
+        C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_59aaf.dir\\build.make CMakeFiles/cmTC_59aaf.dir/build
+        mingw32-make.exe[1]: Entering directory 'C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-zcv0ru'
+        Building CXX object CMakeFiles/cmTC_59aaf.dir/src.cxx.obj
+        C:\\w64devkit\\bin\\g++.exe -DCMAKE_HAVE_LIBC_PTHREAD  -std=gnu++11 -o CMakeFiles\\cmTC_59aaf.dir\\src.cxx.obj -c C:\\Users\\Xiaomi\\Desktop\\ll2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zcv0ru\\src.cxx
+        Linking CXX executable cmTC_59aaf.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_59aaf.dir\\link.txt --verbose=1
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_59aaf.dir/objects.a
+        C:\\Users\\Xiaomi\\bin\\ar.exe qc CMakeFiles\\cmTC_59aaf.dir/objects.a @CMakeFiles\\cmTC_59aaf.dir\\objects1.rsp
+        C:\\w64devkit\\bin\\g++.exe -Wl,--whole-archive CMakeFiles\\cmTC_59aaf.dir/objects.a -Wl,--no-whole-archive -o cmTC_59aaf.exe -Wl,--out-implib,libcmTC_59aaf.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_59aaf.dir\\linkLibs.rsp
+        mingw32-make.exe[1]: Leaving directory 'C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-zcv0ru'
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      The system is: Windows - 10.0.19045 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/Users/Xiaomi/bin/c++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+      
+      The CXX compiler identification is GNU, found in:
+        C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/3.30.3/CompilerIdCXX/a.exe
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake:74 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:5 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-ned2i9"
+      binary: "C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-ned2i9"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-ned2i9'
+        
+        Run Build Command(s): C:/msys64/mingw64/bin/ninja.exe -v cmTC_1f528
+        [1/2] C:\\Users\\Xiaomi\\bin\\c++.exe   -v -o CMakeFiles/cmTC_1f528.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
+        Built by Equation Solution <http://www.Equation.com>.
+        Using built-in specs.
+        COLLECT_GCC=C:\\Users\\Xiaomi\\bin\\c++.exe
+        Target: x86_64-w64-mingw32
+        Configured with: ../gcc-12.3.0/configure --host=x86_64-w64-mingw32 --build=x86_64-unknown-linux-gnu --target=x86_64-w64-mingw32 --prefix=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/gcc/12.3.0 --with-sysroot=/home/gfortran/gcc-home/binary/mingw32/cross/x86_64/gcc/12.3.0 --with-gcc --with-gnu-ld --with-gnu-as --with-ld64=no --with-gmp=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/gmp --with-mpfr=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/mpfr --with-mpc=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/mpc --with-cloog=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/cloog --with-libiconv-prefix=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/libiconv --with-diagnostics-color=auto --enable-cloog-backend=isl --enable-targets=i686-w64-mingw32,x86_64-w64-mingw32 --enable-lto --enable-languages=c,c++,fortran --enable-threads=win32 --enable-static --enable-shared=lto-plugin --enable-plugins --enable-ld=yes --enable-libquadmath --enable-libquadmath-support --enable-libgomp --disable-checking --disable-nls --disable-tls --disable-win32-registry
+        Thread model: win32
+        Supported LTO compression algorithms: zlib
+        gcc version 12.3.0 (GCC) 
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1f528.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_1f528.dir/'
+         c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/cc1plus.exe -quiet -v -iprefix c:\\users\\xiaomi\\bin\\../lib/gcc/x86_64-w64-mingw32/12.3.0/ -U_REENTRANT C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_1f528.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\ccfp8wV6.s
+        GNU C++17 (GCC) version 12.3.0 (x86_64-w64-mingw32)
+        	compiled by GNU C version 12.3.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version none
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        ignoring duplicate directory "c:/users/xiaomi/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include/c++/12.3.0"
+        ignoring duplicate directory "c:/users/xiaomi/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include/c++/12.3.0/x86_64-w64-mingw32"
+        ignoring duplicate directory "c:/users/xiaomi/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include/c++/12.3.0/backward"
+        ignoring duplicate directory "c:/users/xiaomi/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/12.3.0/include"
+        ignoring nonexistent directory "/home/gfortran/gcc-home/binary/mingw32/cross/x86_64/gcc/12.3.0/home/gfortran/gcc-home/binary/mingw32/native/x86_64/gcc/12.3.0/lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include"
+        ignoring duplicate directory "c:/users/xiaomi/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/12.3.0/include-fixed"
+        ignoring duplicate directory "c:/users/xiaomi/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/include"
+        ignoring nonexistent directory "/home/gfortran/gcc-home/binary/mingw32/cross/x86_64/gcc/12.3.0/mingw/include"
+        #include "..." search starts here:
+        #include <...> search starts here:
+         c:\\users\\xiaomi\\bin\\../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include/c++/12.3.0
+         c:\\users\\xiaomi\\bin\\../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include/c++/12.3.0/x86_64-w64-mingw32
+         c:\\users\\xiaomi\\bin\\../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include/c++/12.3.0/backward
+         c:\\users\\xiaomi\\bin\\../lib/gcc/x86_64-w64-mingw32/12.3.0/include
+         c:\\users\\xiaomi\\bin\\../lib/gcc/x86_64-w64-mingw32/12.3.0/include-fixed
+         c:\\users\\xiaomi\\bin\\../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/include
+        End of search list.
+        GNU C++17 (GCC) version 12.3.0 (x86_64-w64-mingw32)
+        	compiled by GNU C version 12.3.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version none
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        Compiler executable checksum: 0baf3ec35fc712bd4fc863e3e6193905
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1f528.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_1f528.dir/'
+         c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_1f528.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\ccfp8wV6.s
+        GNU assembler version 2.39 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.39
+        COMPILER_PATH=c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/;c:/users/xiaomi/bin/../libexec/gcc/;c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/bin/
+        LIBRARY_PATH=c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/;c:/users/xiaomi/bin/../lib/gcc/;c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib/;c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../lib/;c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/;c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../\x0d
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1f528.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_1f528.dir/CMakeCXXCompilerABI.cpp.'\x0d
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Users\\Xiaomi\\bin\\c++.exe  -v -Wl,-v CMakeFiles/cmTC_1f528.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_1f528.exe -Wl,--out-implib,libcmTC_1f528.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+        Built by Equation Solution <http://www.Equation.com>.
+        Using built-in specs.
+        COLLECT_GCC=C:\\Users\\Xiaomi\\bin\\c++.exe
+        COLLECT_LTO_WRAPPER=c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/lto-wrapper.exe
+        Target: x86_64-w64-mingw32
+        Configured with: ../gcc-12.3.0/configure --host=x86_64-w64-mingw32 --build=x86_64-unknown-linux-gnu --target=x86_64-w64-mingw32 --prefix=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/gcc/12.3.0 --with-sysroot=/home/gfortran/gcc-home/binary/mingw32/cross/x86_64/gcc/12.3.0 --with-gcc --with-gnu-ld --with-gnu-as --with-ld64=no --with-gmp=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/gmp --with-mpfr=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/mpfr --with-mpc=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/mpc --with-cloog=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/cloog --with-libiconv-prefix=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/libiconv --with-diagnostics-color=auto --enable-cloog-backend=isl --enable-targets=i686-w64-mingw32,x86_64-w64-mingw32 --enable-lto --enable-languages=c,c++,fortran --enable-threads=win32 --enable-static --enable-shared=lto-plugin --enable-plugins --enable-ld=yes --enable-libquadmath --enable-libquadmath-support --enable-libgomp --disable-checking --disable-nls --disable-tls --disable-win32-registry
+        Thread model: win32
+        Supported LTO compression algorithms: zlib
+        gcc version 12.3.0 (GCC) 
+        COMPILER_PATH=c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/;c:/users/xiaomi/bin/../libexec/gcc/;c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/bin/
+        LIBRARY_PATH=c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/;c:/users/xiaomi/bin/../lib/gcc/;c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib/;c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../lib/;c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/;c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1f528.exe' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_1f528.'
+         c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/collect2.exe -plugin c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/liblto_plugin.dll -plugin-opt=c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\cc1RyuVf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=/home/gfortran/gcc-home/binary/mingw32/cross/x86_64/gcc/12.3.0 -m i386pep -Bdynamic -o cmTC_1f528.exe c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/crtbegin.o -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0 -Lc:/users/xiaomi/bin/../lib/gcc -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../lib -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../.. -v CMakeFiles/cmTC_1f528.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_1f528.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/crtend.o
+        collect2 version 12.3.0
+        c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/liblto_plugin.dll -plugin-opt=c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\cc1RyuVf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=/home/gfortran/gcc-home/binary/mingw32/cross/x86_64/gcc/12.3.0 -m i386pep -Bdynamic -o cmTC_1f528.exe c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/crtbegin.o -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0 -Lc:/users/xiaomi/bin/../lib/gcc -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../lib -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../.. -v CMakeFiles/cmTC_1f528.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_1f528.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/crtend.o\x0d
+        GNU ld (GNU Binutils) 2.39\x0d
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1f528.exe' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_1f528.'\x0d
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake:182 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Parsed CXX implicit include dir info: rv=done
+        found start of include info
+        found start of implicit include info
+          add: [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include/c++/12.3.0]
+          add: [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include/c++/12.3.0/x86_64-w64-mingw32]
+          add: [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include/c++/12.3.0/backward]
+          add: [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/include]
+          add: [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/include-fixed]
+          add: [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/include]
+        end of search list found
+        collapse include dir [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include/c++/12.3.0] ==> [C:/Users/Xiaomi/include/c++/12.3.0]
+        collapse include dir [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include/c++/12.3.0/x86_64-w64-mingw32] ==> [C:/Users/Xiaomi/include/c++/12.3.0/x86_64-w64-mingw32]
+        collapse include dir [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include/c++/12.3.0/backward] ==> [C:/Users/Xiaomi/include/c++/12.3.0/backward]
+        collapse include dir [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/include] ==> [C:/Users/Xiaomi/lib/gcc/x86_64-w64-mingw32/12.3.0/include]
+        collapse include dir [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/include-fixed] ==> [C:/Users/Xiaomi/lib/gcc/x86_64-w64-mingw32/12.3.0/include-fixed]
+        collapse include dir [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/include] ==> [C:/Users/Xiaomi/x86_64-w64-mingw32/include]
+        implicit include dirs: [C:/Users/Xiaomi/include/c++/12.3.0;C:/Users/Xiaomi/include/c++/12.3.0/x86_64-w64-mingw32;C:/Users/Xiaomi/include/c++/12.3.0/backward;C:/Users/Xiaomi/lib/gcc/x86_64-w64-mingw32/12.3.0/include;C:/Users/Xiaomi/lib/gcc/x86_64-w64-mingw32/12.3.0/include-fixed;C:/Users/Xiaomi/x86_64-w64-mingw32/include]
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake:218 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?))("|,| |$)]
+        ignore line: [Change Dir: 'C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-ned2i9']
+        ignore line: []
+        ignore line: [Run Build Command(s): C:/msys64/mingw64/bin/ninja.exe -v cmTC_1f528]
+        ignore line: [[1/2] C:\\Users\\Xiaomi\\bin\\c++.exe   -v -o CMakeFiles/cmTC_1f528.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"]
+        ignore line: [Built by Equation Solution <http://www.Equation.com>.]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=C:\\Users\\Xiaomi\\bin\\c++.exe]
+        ignore line: [Target: x86_64-w64-mingw32]
+        ignore line: [Configured with: ../gcc-12.3.0/configure --host=x86_64-w64-mingw32 --build=x86_64-unknown-linux-gnu --target=x86_64-w64-mingw32 --prefix=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/gcc/12.3.0 --with-sysroot=/home/gfortran/gcc-home/binary/mingw32/cross/x86_64/gcc/12.3.0 --with-gcc --with-gnu-ld --with-gnu-as --with-ld64=no --with-gmp=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/gmp --with-mpfr=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/mpfr --with-mpc=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/mpc --with-cloog=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/cloog --with-libiconv-prefix=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/libiconv --with-diagnostics-color=auto --enable-cloog-backend=isl --enable-targets=i686-w64-mingw32,x86_64-w64-mingw32 --enable-lto --enable-languages=c,c++,fortran --enable-threads=win32 --enable-static --enable-shared=lto-plugin --enable-plugins --enable-ld=yes --enable-libquadmath --enable-libquadmath-support --enable-libgomp --disable-checking --disable-nls --disable-tls --disable-win32-registry]
+        ignore line: [Thread model: win32]
+        ignore line: [Supported LTO compression algorithms: zlib]
+        ignore line: [gcc version 12.3.0 (GCC) ]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1f528.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_1f528.dir/']
+        ignore line: [ c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/cc1plus.exe -quiet -v -iprefix c:\\users\\xiaomi\\bin\\../lib/gcc/x86_64-w64-mingw32/12.3.0/ -U_REENTRANT C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_1f528.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\ccfp8wV6.s]
+        ignore line: [GNU C++17 (GCC) version 12.3.0 (x86_64-w64-mingw32)]
+        ignore line: [	compiled by GNU C version 12.3.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version none]
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [ignoring duplicate directory "c:/users/xiaomi/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include/c++/12.3.0"]
+        ignore line: [ignoring duplicate directory "c:/users/xiaomi/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include/c++/12.3.0/x86_64-w64-mingw32"]
+        ignore line: [ignoring duplicate directory "c:/users/xiaomi/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include/c++/12.3.0/backward"]
+        ignore line: [ignoring duplicate directory "c:/users/xiaomi/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/12.3.0/include"]
+        ignore line: [ignoring nonexistent directory "/home/gfortran/gcc-home/binary/mingw32/cross/x86_64/gcc/12.3.0/home/gfortran/gcc-home/binary/mingw32/native/x86_64/gcc/12.3.0/lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include"]
+        ignore line: [ignoring duplicate directory "c:/users/xiaomi/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/12.3.0/include-fixed"]
+        ignore line: [ignoring duplicate directory "c:/users/xiaomi/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/include"]
+        ignore line: [ignoring nonexistent directory "/home/gfortran/gcc-home/binary/mingw32/cross/x86_64/gcc/12.3.0/mingw/include"]
+        ignore line: [#include "..." search starts here:]
+        ignore line: [#include <...> search starts here:]
+        ignore line: [ c:\\users\\xiaomi\\bin\\../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include/c++/12.3.0]
+        ignore line: [ c:\\users\\xiaomi\\bin\\../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include/c++/12.3.0/x86_64-w64-mingw32]
+        ignore line: [ c:\\users\\xiaomi\\bin\\../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../include/c++/12.3.0/backward]
+        ignore line: [ c:\\users\\xiaomi\\bin\\../lib/gcc/x86_64-w64-mingw32/12.3.0/include]
+        ignore line: [ c:\\users\\xiaomi\\bin\\../lib/gcc/x86_64-w64-mingw32/12.3.0/include-fixed]
+        ignore line: [ c:\\users\\xiaomi\\bin\\../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/include]
+        ignore line: [End of search list.]
+        ignore line: [GNU C++17 (GCC) version 12.3.0 (x86_64-w64-mingw32)]
+        ignore line: [	compiled by GNU C version 12.3.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version none]
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [Compiler executable checksum: 0baf3ec35fc712bd4fc863e3e6193905]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1f528.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_1f528.dir/']
+        ignore line: [ c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_1f528.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\ccfp8wV6.s]
+        ignore line: [GNU assembler version 2.39 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.39]
+        ignore line: [COMPILER_PATH=c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/]
+        ignore line: [c:/users/xiaomi/bin/../libexec/gcc/]
+        ignore line: [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/bin/]
+        ignore line: [LIBRARY_PATH=c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/]
+        ignore line: [c:/users/xiaomi/bin/../lib/gcc/]
+        ignore line: [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib/]
+        ignore line: [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../lib/]
+        ignore line: [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/]
+        ignore line: [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../\x0d]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_1f528.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_1f528.dir/CMakeCXXCompilerABI.cpp.'\x0d]
+        ignore line: [[2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Users\\Xiaomi\\bin\\c++.exe  -v -Wl -v CMakeFiles/cmTC_1f528.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_1f528.exe -Wl --out-implib libcmTC_1f528.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
+        ignore line: [Built by Equation Solution <http://www.Equation.com>.]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=C:\\Users\\Xiaomi\\bin\\c++.exe]
+        ignore line: [COLLECT_LTO_WRAPPER=c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/lto-wrapper.exe]
+        ignore line: [Target: x86_64-w64-mingw32]
+        ignore line: [Configured with: ../gcc-12.3.0/configure --host=x86_64-w64-mingw32 --build=x86_64-unknown-linux-gnu --target=x86_64-w64-mingw32 --prefix=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/gcc/12.3.0 --with-sysroot=/home/gfortran/gcc-home/binary/mingw32/cross/x86_64/gcc/12.3.0 --with-gcc --with-gnu-ld --with-gnu-as --with-ld64=no --with-gmp=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/gmp --with-mpfr=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/mpfr --with-mpc=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/mpc --with-cloog=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/cloog --with-libiconv-prefix=/home/gfortran/gcc-home/binary/mingw32/native/x86_64/libiconv --with-diagnostics-color=auto --enable-cloog-backend=isl --enable-targets=i686-w64-mingw32,x86_64-w64-mingw32 --enable-lto --enable-languages=c,c++,fortran --enable-threads=win32 --enable-static --enable-shared=lto-plugin --enable-plugins --enable-ld=yes --enable-libquadmath --enable-libquadmath-support --enable-libgomp --disable-checking --disable-nls --disable-tls --disable-win32-registry]
+        ignore line: [Thread model: win32]
+        ignore line: [Supported LTO compression algorithms: zlib]
+        ignore line: [gcc version 12.3.0 (GCC) ]
+        ignore line: [COMPILER_PATH=c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/]
+        ignore line: [c:/users/xiaomi/bin/../libexec/gcc/]
+        ignore line: [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/bin/]
+        ignore line: [LIBRARY_PATH=c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/]
+        ignore line: [c:/users/xiaomi/bin/../lib/gcc/]
+        ignore line: [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib/]
+        ignore line: [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../lib/]
+        ignore line: [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/]
+        ignore line: [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1f528.exe' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_1f528.']
+        link line: [ c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/collect2.exe -plugin c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/liblto_plugin.dll -plugin-opt=c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\cc1RyuVf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=/home/gfortran/gcc-home/binary/mingw32/cross/x86_64/gcc/12.3.0 -m i386pep -Bdynamic -o cmTC_1f528.exe c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/crtbegin.o -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0 -Lc:/users/xiaomi/bin/../lib/gcc -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../lib -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../.. -v CMakeFiles/cmTC_1f528.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_1f528.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/crtend.o]
+          arg [c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/collect2.exe] ==> ignore
+          arg [-plugin] ==> ignore
+          arg [c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/liblto_plugin.dll] ==> ignore
+          arg [-plugin-opt=c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/lto-wrapper.exe] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\cc1RyuVf.res] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmoldname] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [-plugin-opt=-pass-through=-ladvapi32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lshell32] ==> ignore
+          arg [-plugin-opt=-pass-through=-luser32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmoldname] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [--sysroot=/home/gfortran/gcc-home/binary/mingw32/cross/x86_64/gcc/12.3.0] ==> ignore
+          arg [-m] ==> ignore
+          arg [i386pep] ==> ignore
+          arg [-Bdynamic] ==> search dynamic
+          arg [-o] ==> ignore
+          arg [cmTC_1f528.exe] ==> ignore
+          arg [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> obj [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o]
+          arg [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/crtbegin.o] ==> obj [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/crtbegin.o]
+          arg [-Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0] ==> dir [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0]
+          arg [-Lc:/users/xiaomi/bin/../lib/gcc] ==> dir [c:/users/xiaomi/bin/../lib/gcc]
+          arg [-Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib] ==> dir [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib]
+          arg [-Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../lib] ==> dir [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../lib]
+          arg [-Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib] ==> dir [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib]
+          arg [-Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../..] ==> dir [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../..]
+          arg [-v] ==> ignore
+          arg [CMakeFiles/cmTC_1f528.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
+          arg [--out-implib] ==> ignore
+          arg [libcmTC_1f528.dll.a] ==> ignore
+          arg [--major-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [--minor-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [-lstdc++] ==> lib [stdc++]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lmoldname] ==> lib [moldname]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-ladvapi32] ==> lib [advapi32]
+          arg [-lshell32] ==> lib [shell32]
+          arg [-luser32] ==> lib [user32]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lmoldname] ==> lib [moldname]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/crtend.o] ==> obj [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/crtend.o]
+        ignore line: [collect2 version 12.3.0]
+        ignore line: [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/liblto_plugin.dll -plugin-opt=c:/users/xiaomi/bin/../libexec/gcc/x86_64-w64-mingw32/12.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Xiaomi\\AppData\\Local\\Temp\\cc1RyuVf.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=/home/gfortran/gcc-home/binary/mingw32/cross/x86_64/gcc/12.3.0 -m i386pep -Bdynamic -o cmTC_1f528.exe c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/crtbegin.o -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0 -Lc:/users/xiaomi/bin/../lib/gcc -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../lib -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib -Lc:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../.. -v CMakeFiles/cmTC_1f528.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_1f528.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/crtend.o\x0d]
+        linker tool for 'CXX': c:/users/xiaomi/x86_64-w64-mingw32/bin/ld.exe
+        remove lib [msvcrt]
+        remove lib [msvcrt]
+        collapse obj [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> [C:/Users/Xiaomi/x86_64-w64-mingw32/lib/crt2.o]
+        collapse obj [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/crtbegin.o] ==> [C:/Users/Xiaomi/lib/gcc/x86_64-w64-mingw32/12.3.0/crtbegin.o]
+        collapse obj [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/crtend.o] ==> [C:/Users/Xiaomi/lib/gcc/x86_64-w64-mingw32/12.3.0/crtend.o]
+        collapse library dir [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0] ==> [C:/Users/Xiaomi/lib/gcc/x86_64-w64-mingw32/12.3.0]
+        collapse library dir [c:/users/xiaomi/bin/../lib/gcc] ==> [C:/Users/Xiaomi/lib/gcc]
+        collapse library dir [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib/../lib] ==> [C:/Users/Xiaomi/x86_64-w64-mingw32/lib]
+        collapse library dir [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../lib] ==> [C:/Users/Xiaomi/lib]
+        collapse library dir [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/lib] ==> [C:/Users/Xiaomi/x86_64-w64-mingw32/lib]
+        collapse library dir [c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../..] ==> [C:/Users/Xiaomi/lib]
+        implicit libs: [stdc++;mingw32;gcc;moldname;mingwex;kernel32;advapi32;shell32;user32;kernel32;mingw32;gcc;moldname;mingwex;kernel32]
+        implicit objs: [C:/Users/Xiaomi/x86_64-w64-mingw32/lib/crt2.o;C:/Users/Xiaomi/lib/gcc/x86_64-w64-mingw32/12.3.0/crtbegin.o;C:/Users/Xiaomi/lib/gcc/x86_64-w64-mingw32/12.3.0/crtend.o]
+        implicit dirs: [C:/Users/Xiaomi/lib/gcc/x86_64-w64-mingw32/12.3.0;C:/Users/Xiaomi/lib/gcc;C:/Users/Xiaomi/x86_64-w64-mingw32/lib;C:/Users/Xiaomi/lib]
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake:255 (cmake_determine_linker_id)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Running the CXX compiler's linker: "c:/users/xiaomi/x86_64-w64-mingw32/bin/ld.exe" "-v"
+      GNU ld (GNU Binutils) 2.39
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/FindThreads.cmake:99 (CHECK_CXX_SOURCE_COMPILES)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/FindThreads.cmake:163 (_threads_check_libc)"
+      - "CMakeLists.txt:12 (find_package)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
+    directories:
+      source: "C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-g065a2"
+      binary: "C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-g065a2"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-g065a2'
+        
+        Run Build Command(s): C:/msys64/mingw64/bin/ninja.exe -v cmTC_54063
+        [1/2] C:\\Users\\Xiaomi\\bin\\c++.exe -DCMAKE_HAVE_LIBC_PTHREAD  -std=gnu++11 -o CMakeFiles/cmTC_54063.dir/src.cxx.obj -c C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-g065a2/src.cxx
+        FAILED: CMakeFiles/cmTC_54063.dir/src.cxx.obj 
+        C:\\Users\\Xiaomi\\bin\\c++.exe -DCMAKE_HAVE_LIBC_PTHREAD  -std=gnu++11 -o CMakeFiles/cmTC_54063.dir/src.cxx.obj -c C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-g065a2/src.cxx
+        C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-g065a2/src.cxx: In function 'int main()':
+        C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-g065a2/src.cxx:15:3: error: 'pthread_atfork' was not declared in this scope; did you mean 'pthread_attr_t'?
+           15 |   pthread_atfork(NULL, NULL, NULL);
+              |   ^~~~~~~~~~~~~~
+              |   pthread_attr_t
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/FindThreads.cmake:175 (_threads_check_lib)"
+      - "CMakeLists.txt:12 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthreads"
+    directories:
+      source: "C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-qlcu6h"
+      binary: "C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-qlcu6h"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREADS_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-qlcu6h'
+        
+        Run Build Command(s): C:/msys64/mingw64/bin/ninja.exe -v cmTC_839b5
+        [1/2] C:\\Users\\Xiaomi\\bin\\c++.exe   -DCHECK_FUNCTION_EXISTS=pthread_create -std=gnu++11 -o CMakeFiles/cmTC_839b5.dir/CheckFunctionExists.cxx.obj -c C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-qlcu6h/CheckFunctionExists.cxx
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Users\\Xiaomi\\bin\\c++.exe -DCHECK_FUNCTION_EXISTS=pthread_create  CMakeFiles/cmTC_839b5.dir/CheckFunctionExists.cxx.obj -o cmTC_839b5.exe -Wl,--out-implib,libcmTC_839b5.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lpthreads  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        FAILED: cmTC_839b5.exe 
+        C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Users\\Xiaomi\\bin\\c++.exe -DCHECK_FUNCTION_EXISTS=pthread_create  CMakeFiles/cmTC_839b5.dir/CheckFunctionExists.cxx.obj -o cmTC_839b5.exe -Wl,--out-implib,libcmTC_839b5.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lpthreads  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        c:/users/xiaomi/bin/../lib/gcc/x86_64-w64-mingw32/12.3.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find -lpthreads: No such file or directory\x0d
+        collect2.exe: error: ld returned 1 exit status
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/FindThreads.cmake:176 (_threads_check_lib)"
+      - "CMakeLists.txt:12 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthread"
+    directories:
+      source: "C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-btivju"
+      binary: "C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-btivju"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREAD_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-btivju'
+        
+        Run Build Command(s): C:/msys64/mingw64/bin/ninja.exe -v cmTC_7aaf7
+        [1/2] C:\\Users\\Xiaomi\\bin\\c++.exe   -DCHECK_FUNCTION_EXISTS=pthread_create -std=gnu++11 -o CMakeFiles/cmTC_7aaf7.dir/CheckFunctionExists.cxx.obj -c C:/Users/Xiaomi/Desktop/ll2/build/CMakeFiles/CMakeScratch/TryCompile-btivju/CheckFunctionExists.cxx
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\Users\\Xiaomi\\bin\\c++.exe -DCHECK_FUNCTION_EXISTS=pthread_create  CMakeFiles/cmTC_7aaf7.dir/CheckFunctionExists.cxx.obj -o cmTC_7aaf7.exe -Wl,--out-implib,libcmTC_7aaf7.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lpthread  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        
+      exitCode: 0
+...

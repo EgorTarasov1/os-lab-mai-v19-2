@@ -1,0 +1,89 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/Users/Xiaomi/include/c++/12.3.0",
+						"C:/Users/Xiaomi/include/c++/12.3.0/x86_64-w64-mingw32",
+						"C:/Users/Xiaomi/include/c++/12.3.0/backward",
+						"C:/Users/Xiaomi/lib/gcc/x86_64-w64-mingw32/12.3.0/include",
+						"C:/Users/Xiaomi/lib/gcc/x86_64-w64-mingw32/12.3.0/include-fixed",
+						"C:/Users/Xiaomi/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"C:/Users/Xiaomi/lib/gcc/x86_64-w64-mingw32/12.3.0",
+						"C:/Users/Xiaomi/lib/gcc",
+						"C:/Users/Xiaomi/x86_64-w64-mingw32/lib",
+						"C:/Users/Xiaomi/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"kernel32",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"kernel32"
+					]
+				},
+				"path" : "C:/Users/Xiaomi/bin/c++.exe",
+				"version" : "12.3.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"m",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm",
+				"ccm",
+				"cxxm",
+				"c++m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "C:/Users/Xiaomi/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
